@@ -1,2 +1,2 @@
-# master-git
+# mastering-git
 Pluralsight course Mastering Git
